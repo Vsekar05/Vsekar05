@@ -6,10 +6,15 @@
 - Here is my portfolio
 
 VIGNESH S
+
 2/3,Chinna mettu palyam,2nd street,
+
 kaladipet,Thiruvottiyur,Chennai-600019
+
 github.com/Vsekar05
+
 vsekar05@gmail.com.com
+
 linkedin.com/in/Vignesh S
 ㅡ
 Skills
@@ -30,10 +35,15 @@ Education
 
 .
 IIT - Madras Guvi / Masters in Data science
+
 DECEMBER 2020- APRIL 2022, Chennai
+
 Pursuing my Masters degree in Data science in the IIT Madras incubated Guvi.
+
 SVCE - SRIPERUMBADUR / B.TECH CHEMICAL ENGINEER
+
 APRIL 2015- APRIL 2019, Chennai
+
 Completed my Bachelors Degree in Chemical Engineering in Sri Venkateswara College of Engineering.
 
 
@@ -41,15 +51,23 @@ Completed my Bachelors Degree in Chemical Engineering in Sri Venkateswara Colleg
 Projects
 
 Completed a Project during my engineering course which is titled as production of Secondary butyl alcohol.
+
 Worked on Titanic Data set where i made a descriptive and inferential Analysis on the data available with the code
+
 Worked on Diabetes Data set where i made a descriptive and inferential Analysis on the data available with the code
+
 Completed a Mini Project where i have plotted the Population density distribution across indian states in the India Map created a map using Heroku
+
 Completed a Mini Project where i have analyzed a IPL Dataset and created an app using Heroku 
+
 Conducted an Support Vector Machine Classification Algorithm on the Titanic Datasets and predicted whether a person can Survive or not
 
 Conducted an Logistic Regression Algorithm on Breast Cancer and predicted What type of Breast Cancer with the specified features
+
 Conducted an Decision Tree Algorithm on Heart Disease dataset and predicted if a person can have a heart disease or not
+
 Conducted Ensemble Learning Technique on the Diabetes where I have Gradient Boosting, AdaBoost Classifier, Voting Classifier,Bagging classifier and predicted which algorithm fits the data set
+
 Market basket Analysis and Recommendation system using K_means Clustering method for the Instacart Data set
 
 
