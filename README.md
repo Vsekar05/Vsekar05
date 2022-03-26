@@ -13,7 +13,7 @@ kaladipet,Thiruvottiyur,Chennai-600019
 
 github.com/Vsekar05
 
-vsekar05@gmail.com.com
+vsekar05@gmail.com
 
 linkedin.com/in/Vignesh S
 ㅡ
