@@ -11,11 +11,11 @@ VIGNESH S
 
 kaladipet,Thiruvottiyur,Chennai-600019
 
-github.com/Vsekar05
+https://github.com/Vsekar05
 
 vsekar05@gmail.com
 
-linkedin.com/in/Vignesh S
+https://www.linkedin.com/in/vignesh-s-390353168/
 
 ㅡ
 Skills
